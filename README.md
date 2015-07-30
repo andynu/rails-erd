@@ -58,10 +58,10 @@ sort: true
 warn: true
 title: sample title
 exclude: null
-only: null
 prepend_primary: false
 ```
 
+See [all options](http://voormedia.github.io/rails-erd/customise.html).
 
 Learn more
 ----------
